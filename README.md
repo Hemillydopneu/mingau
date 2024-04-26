@@ -18,6 +18,5 @@ O objetivo deste projeto é documentar e acompanhar meu progresso em relação a
 - [ ] Fazer simulados regularmente.
 - [ ] Revisar os pontos fracos identificados nos simulados.
 
-## Contribuindo
-Sinta-se à vontade para contribuir com sugestões, dicas ou acompanhando meu progresso!
+
 
